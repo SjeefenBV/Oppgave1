@@ -1,2 +1,2 @@
-print("lol viktor gay")
-print("lol ye")
+print("Hello, world!")
+print("Arch < Manjaro")
